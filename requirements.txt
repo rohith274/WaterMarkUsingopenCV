@@ -1,5 +1,5 @@
 Flask==1.1.1
 numpy==1.18.5
 Pillow==8.0.01
-opencv-python-headless==4.4.0.42
+opencv-python-headless==4.5.5.64
 gunicorn
